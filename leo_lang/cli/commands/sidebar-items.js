@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["account","build","clean","example","execute","new","run","update"],"struct":["BuildOptions"],"trait":["Command"]};

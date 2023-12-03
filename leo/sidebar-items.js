@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["main","set_panic_hook"]};

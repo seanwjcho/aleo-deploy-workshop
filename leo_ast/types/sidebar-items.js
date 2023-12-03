@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["array","core_constant","integer_type","mapping","tuple","type_"]};
